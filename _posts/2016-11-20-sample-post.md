@@ -4,7 +4,7 @@ categories: posts
 title: Post Simples
 subtitle: Isso é um teste para post
 featured-image: /images/2016-11-19/abstract-1.jpg
-tags: [sample post]
+tags: [thalles santos]
 date-string: NOVEMBER 20, 2024
 ---
 
