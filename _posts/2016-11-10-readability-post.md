@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: posts
-title: "Testing Readability with a Bunch of Text"
+title: "Isso é um teste para o site"
 tags: [sample post, readability, test, intro]
 date-string: NOVEMBER 10, 2016
 ---
