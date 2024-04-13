@@ -1,9 +1,9 @@
 ---
 layout: post
 categories: posts
-title: Image Post
-tags: [sample post]
-date-string: NOVEMBER 19, 2016
+title: IMAGEM DE PROJETOS
+tags: [THALLES SANTOS]
+date-string: ABRIL 13, 2024
 ---
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="_/js/libs/jquery-1.9.1.min.js"><\/script>')</script>
