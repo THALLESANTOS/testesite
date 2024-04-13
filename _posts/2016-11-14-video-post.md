@@ -2,7 +2,7 @@
 layout: post
 categories: posts
 title: A Video Post
-tags: [sample post, video]
+tags: [thalles, SANTOS]
 date-string: NOVEMBER 14, 2016
 ---
 <center>
